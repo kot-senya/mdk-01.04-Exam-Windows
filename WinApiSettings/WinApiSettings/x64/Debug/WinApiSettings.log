@@ -1,0 +1,5 @@
+﻿  Mouse.c
+C:\Мои документы\колледж\4 курс\мдк 01.04 системное программирование\экзамен\WinApiSettings\WinApiSettings\Mouse.c(44,63): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+C:\Мои документы\колледж\4 курс\мдк 01.04 системное программирование\экзамен\WinApiSettings\WinApiSettings\Mouse.c(44,63): warning C4024: SetWindowsHookExW: различные типы для формального и фактического параметров 4
+C:\Мои документы\колледж\4 курс\мдк 01.04 системное программирование\экзамен\WinApiSettings\WinApiSettings\Mouse.c(52,10): warning C4098: mouse: функция типа "void", возвращающая значение
+  WinApiSettings.vcxproj -> C:\Мои документы\колледж\4 курс\мдк 01.04 системное программирование\экзамен\WinApiSettings\x64\Debug\WinApiSettings.exe
